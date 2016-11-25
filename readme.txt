@@ -6,6 +6,7 @@ My stupid boss still prefer SVN.
 Git is important.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
+I love git.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> featurel
